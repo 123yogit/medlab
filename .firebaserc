@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "medlab-yn-123": {
+      "hosting": {
+        "medlab": [
+          "medlab-yn-123"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "medlab-yn-123"
+  }
+}
